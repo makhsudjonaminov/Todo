@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo.iOS/Todo.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo.iOS/Todo.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo.iOS/Todo.iOS.csproj",
+        "projectName": "Todo.iOS",
+        "projectPath": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo.iOS/Todo.iOS.csproj",
+        "packagesPath": "/Users/aminovmakhsudjon/.nuget/packages/",
+        "outputPath": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/aminovmakhsudjon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/Todo.csproj": {
+                "projectPath": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/Todo.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/Todo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/Todo.csproj",
+        "projectName": "Todo",
+        "projectPath": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/Todo.csproj",
+        "packagesPath": "/Users/aminovmakhsudjon/.nuget/packages/",
+        "outputPath": "/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aminovmakhsudjon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

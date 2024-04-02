@@ -1,0 +1,17 @@
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/bin/Debug/netstandard2.0/Todo.deps.json
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/bin/Debug/netstandard2.0/Todo.dll
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/bin/Debug/netstandard2.0/ref/Todo.dll
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/bin/Debug/netstandard2.0/Todo.pdb
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.csproj.AssemblyReference.cache
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/App/App.xaml.g.cs
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Views/TodoItemPage.xaml.g.cs
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Views/TodoListPage.xaml.g.cs
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.AssemblyInfoInputs.cache
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.AssemblyInfo.cs
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.csproj.CoreCompileInputs.cache
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.dll
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/refint/Todo.dll
+/Users/aminovmakhsudjon/Desktop/IT3048C Mobile Device/Todo/Todo/Todo/obj/Debug/netstandard2.0/Todo.pdb
